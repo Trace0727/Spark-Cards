@@ -20,7 +20,6 @@ FlashCardProgram/
 │       ├── testFlashcard.java
 │       ├── testFlashcardDeck.java
 │       └── testFlashcardManager.java
-└── README.md
 ```
 
 ---
