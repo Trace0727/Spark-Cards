@@ -100,7 +100,9 @@ java -jar junit-platform-console-standalone-1.9.1.jar --class-path . --scan-clas
 
 
 ## License
-This project is provided for educational purposes and does not currently include a formal license.
+This project is licensed for personal, non-commercial use only. Redistribution, resale, or modification is prohibited without written permission from the author.  
+See the [LICENSE] file for full details.
+
 
 ---
 
