@@ -1,5 +1,5 @@
 
-# FlashCardProgram (Spark-Cards) 
+# SparkCards
 
 A simple Java-based flashcard application built with object-oriented design principles. This project demonstrates clean code structure, class design, and integrated unit testing using JUnit 5. Ideal for educational or personal study tools.
 
@@ -8,7 +8,7 @@ A simple Java-based flashcard application built with object-oriented design prin
 ## Project Structure
 
 ```
-FlashCardProgram/
+SparkCards/
 ├── src/
 │   └── flashcards/
 │       ├── Flashcard.java
